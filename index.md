@@ -7,5 +7,5 @@ It is installed privately through Xcode and is not publicly distributed.
 
 This is an independent project, not affiliated with or endorsed by Oura.
 
-- [Privacy policy](privacy.html)
-- [Terms of service](terms.html)
+- [Privacy policy](privacy.md)
+- [Terms of service](terms.md)

@@ -2,7 +2,7 @@
 
 Last updated: November 16, 2026
 
-Hey Oura Ring is a personal app for viewing the developer's own Oura data.
+"Hey Ring" is a personal app for viewing the developer's own Oura data.
 
 ## Data access and storage
 
